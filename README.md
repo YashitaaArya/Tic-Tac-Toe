@@ -58,3 +58,6 @@ If you have any questions or suggestions, feel free to reach out via:
 - **Email**: yashitaaarya23@gmail.com
 
 Enjoy playing the NxN Tic-Tac-Toe game and happy coding! 🎮✨
+
+![image](https://github.com/user-attachments/assets/c0cc509c-069e-42ab-8b5c-329e2f3b7c14)
+
